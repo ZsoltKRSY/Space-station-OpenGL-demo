@@ -1,0 +1,13 @@
+# Blender 4.3.2 MTL File: 'Blender-2.92-Baked Animations Intergalactic_Spaceships_Version_2.blend'
+# www.blender.org
+
+newmtl 01___Default
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd MoonMap2_2500x1250.jpg
+map_Bump moon-normal.jpg

@@ -1,0 +1,172 @@
+# Blender 4.3.2 MTL File: 'PG_project_Blender.blend'
+# www.blender.org
+
+newmtl None
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl eqbluefrontmat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqfront1.jpg
+map_Ke eqfront1.jpg
+
+newmtl eqdoorsmat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd doors.jpg
+
+newmtl eqdownmat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.185000 0.185000 0.185000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqdownmap.jpg
+
+newmtl eqdownmat_NONE
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.185000 0.185000 0.185000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqdownmap.jpg
+
+newmtl eqgreen1mat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqgreen1.jpg
+map_Ke eqgreen1.jpg
+
+newmtl eqgreen2lightmat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqgreen2.jpg
+map_Ke eqgreen2.jpg
+
+newmtl eqredlight
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqred.jpg
+map_Ke eqred.jpg
+
+newmtl eqredlight_eqred.jpg
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqred.jpg
+map_Ke eqred.jpg
+
+newmtl eqside1mat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqsidemap1.jpg
+map_Ke eqsidemap1.jpg
+
+newmtl eqside2mat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqsidemap2.jpg
+map_Ke eqsidemap2.jpg
+
+newmtl eqsidemat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.185000 0.185000 0.185000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqsidemap.jpg
+
+newmtl equpmap
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.185393 0.185393 0.185393
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd equpmap.jpg
+
+newmtl equpmap_NONE
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.185393 0.185393 0.185393
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd equpmap.jpg
+
+newmtl equpmap_Untitled
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.185393 0.185393 0.185393
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd equpmap.jpg
+
+newmtl eqwhitelight
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqwhitelight.jpg
+map_Ke eqwhitelight.jpg
+
+newmtl eqwhitelight_NONE
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eqwhitelight.jpg
+map_Ke eqwhitelight.jpg

@@ -1,0 +1,129 @@
+# Blender 4.3.2 MTL File: 'PG_project_Blender.blend'
+# www.blender.org
+
+newmtl Buster.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Buster_Col_1.jpg
+map_Ks Buster_Nor_2.jpg
+map_refl DH_Ref_3.jpg
+map_Bump Buster_Nor_2.jpg
+
+newmtl Hover_1.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shuttle_Hover_Col.jpg
+map_Ks Shuttle_Hover_Nor_2.jpg
+map_Bump Shuttle_Hover_Nor_2.jpg
+
+newmtl Material.019
+Ns 56.862747
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shuttle_Outside_Col.jpg
+map_Ks Shuttle_Outside_Nor_2.jpg
+map_refl DH_Ref_3.jpg
+map_Bump Shuttle_Outside_Nor_2.jpg
+
+newmtl Material.021
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shuttle_Wire_Col.jpg
+map_Ks Shuttle_Wire_Col.jpg
+map_refl DH_Ref_3.jpg
+map_Bump Shuttle_Wire_Nor.jpg
+
+newmtl Material.022
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shuttle_Inside_Col.jpg
+map_Ks Shuttle_Inside_Col.jpg
+map_Bump Shuttle_Inside_Nor.jpg
+
+newmtl Material.024
+Ns 58.823509
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shuttle_Site_Col.jpg
+map_Ks Shuttle_Site_Nor.jpg
+map_Bump Shuttle_Site_Nor.jpg
+
+newmtl Material.025
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shuttle_Inside_Col.jpg
+map_Ks Shuttle_Inside_Col.jpg
+map_Bump Shuttle_Inside_Nor.jpg
+
+newmtl Shuttel_Inside.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shuttle_Inside_Col.jpg
+map_Ks Shuttle_Inside_Col.jpg
+map_Bump Shuttle_Inside_Nor.jpg
+
+newmtl Shuttel_Legs.001_NONE.002
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shuttle_Legs_Col.jpg
+map_Ks Shuttle_Legs_Col.jpg
+map_refl DH_Ref_3.jpg
+map_Bump Shuttle_Legs_Nor.jpg
+
+newmtl Shuttel_Legs.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shuttle_Legs_Col.jpg
+map_Ks Shuttle_Legs_Nor.jpg
+map_refl DH_Ref_3.jpg
+map_Bump Shuttle_Legs_Nor.jpg
+
+newmtl Shuttle_Rest.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shuttle_Rest_Col.jpg
+map_Ks Shuttle_Rest_Nor.jpg
+map_refl DH_Ref_3.jpg
+map_Bump Shuttle_Rest_Nor.jpg

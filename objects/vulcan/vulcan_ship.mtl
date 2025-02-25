@@ -1,0 +1,182 @@
+# Blender 4.3.2 MTL File: 'Blender-2.92-Baked Animations Intergalactic_Spaceships_Version_2.blend'
+# www.blender.org
+
+newmtl Material.013
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown1.jpg
+
+newmtl Material.020
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkwhite.jpg
+map_Ke dkwhite.jpg
+
+newmtl Material.023
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkengine.jpg
+map_Ke dkengine.jpg
+
+newmtl Material.026
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkblue.jpg
+map_Ke dkblue.jpg
+
+newmtl Material_NONE.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material_dkbrown2.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown2.jpg
+
+newmtl Material_dkbrown3.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown3.jpg
+
+newmtl Material_dkbrown4.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown4.jpg
+
+newmtl Material_dkbrown5.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown5.jpg
+
+newmtl Material_dkbrown6.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown6.jpg
+
+newmtl Material_dkbrown7.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown7.jpg
+
+newmtl Material_dkunder.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkunder.jpg
+
+newmtl None.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dkbrown1.jpg
+
+newmtl None_dkbrown1.jpg.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dkbrown1.jpg
+
+newmtl None_dkbrown2.jpg.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dkbrown2.jpg
+
+newmtl None_dkbrown3.jpg.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dkbrown3.jpg
+
+newmtl None_dkbrown6.jpg.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dkbrown6.jpg
+
+newmtl None_dkbrown7.jpg.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dkbrown7.jpg

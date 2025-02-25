@@ -1,0 +1,72 @@
+# Blender 4.3.2 MTL File: 'PG_project_Blender.blend'
+# www.blender.org
+
+newmtl Material.013
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown1.jpg
+
+newmtl Material.027
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkintlight.jpg
+map_Ke dkintlight.jpg
+
+newmtl Material_dkbrown2.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown2.jpg
+
+newmtl Material_dkbrown3.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown3.jpg
+
+newmtl Material_dkbrown4.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown4.jpg
+
+newmtl Material_dkbrown5.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown5.jpg
+
+newmtl Material_dkbrown7.jpg.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.214286 0.214286 0.214286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dkbrown7.jpg
